@@ -6,7 +6,7 @@
 
 ## WHO AM I? :superhero_man:
 <img align="right" height="220" width="375" alt="" src="./img/Code typing-pana.svg" />
-I'm Mohamed, I'm a recently graduated student at the department of computer and information systems. A passionate individual who loves building web applications, beside this have more interest in data Analysis and Cyber Security.
+I'm a recently graduated student at the department of computer and information systems. A passionate individual who loves building web applications, beside this have more interest in data Analysis and Cyber Security.
 
 I recently, completed my 6 months long internship, where I honed my full stack  development skills. Ideally, I would like to continue to specialize in software engineering.
 <br />
