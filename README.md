@@ -65,7 +65,7 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-
+---  
 
 ## Projects
 <p>
@@ -75,9 +75,12 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 <br>   
 <br>   
 
-- By using Machine learning Algorithms, I developed a **_Facial Expression Detection_** project that can detect a person's facial expression and display whether the person _happiness_ 😆 , _sad_ 😢 , _disgust_ 😞 , _fearful_ 😨, _surprise_ 🙀, or _angry_ 😠. [Repo link](https://github.com/KayseMca/facedetectingapp) or [Website](https://detectingface.herokuapp.com/)
+  
 
-- **Tools and Frameworks I used it**:   
+&nbsp; - By using Machine learning Algorithms, I developed a **_Facial Expression Detection_** project that can detect a person's facial expression and display whether the person _happiness_ 😆 , _sad_ 😢 , _disgust_ 😞 , _fearful_ 😨, _surprise_ 🙀, or _angry_ 😠.   
+[Repo link](https://github.com/KayseMca/facedetectingapp) or [Website](https://detectingface.herokuapp.com/)
+
+&nbsp; - **Tools and Frameworks I used it**:   
 
     - Python  - Pandas
     - Tensorflow - Keras
