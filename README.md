@@ -27,7 +27,7 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 <br>
 ## Personal Stuffs 🖐️
 - 🔭 &nbsp; I’m currently working on with Nodejs, Express, Angular, Mongodb, Javascript,Python etc.  
-- 🤝 &nbsp; Fun fact: I'm trilingual 🏌️ Fluent in Somali, Turkish and improving English
+- 🤝 &nbsp; Fun fact: I'm trilingual 🏌️ Fluent in Somali, Turkish and improving my English
 - 🌱 &nbsp; I’m currently learning FastApi; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/KayseMca?tab=repositories)
 - 🎨 &nbsp; Interests nowadays Cyber Security with AI⛳
