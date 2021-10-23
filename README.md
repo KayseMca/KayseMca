@@ -8,16 +8,6 @@
 <img align="right" height="220" width="375" alt="" src="./img/Code typing-pana.svg" />
 I'm a recently graduated student at the department of computer and information systems. A passionate individual who loves building web applications, beside this have more interest in data Analysis and Cyber Security.
 
-I recently, completed my 6 months long internship, where I honed my full stack  development skills. Ideally, I would like to continue to specialize in software engineering.
-<br />
-<br>
-<br>
-<br>
-
-<p>
-  <img width="280" height="210" align='left' src="./img/code.svg?raw=true">
-</p>   
-
 I love challenging myself and consistently learning something new.    
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires.   
 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
@@ -26,9 +16,9 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 <br>
 <br>
 ## Personal Stuffs 🖐️
-- 🔭 &nbsp; I’m currently working on with Nodejs, Express, Angular, Mongodb, Javascript,Python etc.  
+- 🔭 &nbsp; I’m developing some freelance project.  
 - 🤝 &nbsp; Fun fact: I'm trilingual 🏌️ Fluent in Somali, Turkish and improving my English
-- 🌱 &nbsp; I’m currently learning FastApi; 
+- 🌱 &nbsp; I’m currently learning FastApi and Docker; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/KayseMca?tab=repositories)
 - 🎨 &nbsp; Interests nowadays Cyber Security with AI⛳
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
