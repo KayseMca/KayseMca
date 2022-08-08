@@ -18,7 +18,7 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 ## Personal Stuffs 🖐️
 - 🔭 &nbsp; I’m developing some freelance project.  
 - 🤝 &nbsp; Fun fact: I'm trilingual 🏌️ Fluent in Somali, Turkish and improving my English
-- 🌱 &nbsp; I’m currently learning FastApi and Docker; 
+- 🌱 &nbsp; I’m currently learning Cloud DevOps Engineer; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/KayseMca?tab=repositories)
 - 🎨 &nbsp; Interests nowadays Cyber Security with AI⛳
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
