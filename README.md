@@ -6,10 +6,10 @@
 
 ## WHO AM I? :superhero_man:
 <img align="right" height="220" width="375" alt="" src="./img/Code typing-pana.svg" />
-I'm a recently graduated student at the department of computer and information systems. A passionate individual who loves building web applications, beside this have more interest in data Analysis and Cyber Security.
+I'm a recently graduated student at the department of computer and information systems. A passionate individual who loves building web applications.
 
 I love challenging myself and consistently learning something new.    
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires.   
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, ML Engineer 🤖 or DevOps Engineer 🎨) depending on what the project requires.   
 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 <br>
 <br>
