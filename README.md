@@ -23,7 +23,7 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 - 🎨 &nbsp; Interests nowadays Cyber Security with AI⛳
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohamedabdillahi3/) or [Mail](mailto:madadmca04@gmail.com)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1w8fd5qupA10xfnR6fjY6tVK9F6AYNhzV/view)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1STPN_cx-t8XIgaMkfgswQCGV1A6-7TNm/view?usp=sharing)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels, or just I like to walk around individual
 
 <br>
