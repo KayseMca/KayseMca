@@ -6,7 +6,7 @@
 
 ## WHO AM I? :superhero_man:
 <img align="right" height="220" width="375" alt="" src="./img/Code typing-pana.svg" />
-I'm a recently graduated student at the department of computer and information systems. A passionate individual who loves building web applications.
+I'm a software developer and a passionate individual who loves building web applications.
 
 I love challenging myself and consistently learning something new.    
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, ML Engineer 🤖 or DevOps Engineer 🎨) depending on what the project requires.   
@@ -16,23 +16,17 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 <br>
 <br>
 ## Personal Stuffs 🖐️
-- 🔭 &nbsp; I’m developing some freelance project.  
+- 🔭 &nbsp; Currently, I work as a Frontend Developer.  
 - 🤝 &nbsp; Fun fact: I'm trilingual 🏌️ Fluent in Somali, Turkish and improving my English
-- 🌱 &nbsp; I’m currently learning Cloud DevOps Engineer; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/KayseMca?tab=repositories)
-- 🎨 &nbsp; Interests nowadays Cyber Security with AI⛳
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 🌱 &nbsp; I’m  learn Cloud computing in my free time and practice data structure and algorithms; 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohamedabdillahi3/) or [Mail](mailto:madadmca04@gmail.com)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/16l1NxyaHnNCraW7Mu7dkUn-f7XHVtIWd/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels, or just I like to walk around individual
 
 <br>
 
 ## Interests 🤟
 
-💻   I love exploring new tech stack and building cool stuffs.  
-📰   Reading & writing tech blogs whenever possible(soon will publish some of).  
-🍕   Hackathons, meetups & tech events(Covid clearance required 😆).
+💻   I love exploring new tech stack and building cool stuffs.   
 
 
 ## Languages and Tools 🖥️:   
@@ -85,8 +79,4 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 [![Kayse's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayseMca)](https://github.com/KayseMca/github-readme-stats)   
 Show some ❤️ by starring my profile and some of my repositories! **Thanks** 👍 or even just say 'Hi' to me 🤩
 
-## Support Me
 
-If you like the value I provide and want to support, maybe consider buying me a Coffee so that I can work more on my skills and produce more value added content 🙌
-<br><br>
-<a href="https://www.buymeacoffee.com/KayseMca"><img height="40" src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=☕&slug=KayseMca&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff"></a>  <code>Not active yet!</code>
