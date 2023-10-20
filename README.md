@@ -74,9 +74,6 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 <br>
 <br>   
 
-#### last but not least 😸
-
-[![Kayse's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayseMca)](https://github.com/KayseMca/github-readme-stats)   
 Show some ❤️ by starring my profile and some of my repositories! **Thanks** 👍 or even just say 'Hi' to me 🤩
 
 
