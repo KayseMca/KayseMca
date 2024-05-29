@@ -10,7 +10,7 @@ I'm a software developer and a passionate individual who loves building web appl
 
 I love challenging myself and consistently learning something new.    
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, ML Engineer 🤖 or DevOps Engineer 🎨) depending on what the project requires.   
-I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
 <br>
 <br>
 <br>
@@ -18,7 +18,7 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 ## Personal Stuffs 🖐️
 - 🔭 &nbsp; Currently, I work as a Frontend Developer.  
 - 🤝 &nbsp; Fun fact: I'm trilingual 🏌️ Fluent in Somali, Turkish and improving my English
-- 🌱 &nbsp; I’m  learn Cloud computing in my free time and practice data structure and algorithms; 
+- 🌱 &nbsp; I’m learning Cloud computing in my free time and practice data structure and algorithms; 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohamedabdillahi3/) or [Mail](mailto:madadmca04@gmail.com)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/16l1NxyaHnNCraW7Mu7dkUn-f7XHVtIWd/view?usp=sharing)
 
@@ -26,7 +26,7 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 
 ## Interests 🤟
 
-💻   I love exploring new tech stack and building cool stuffs.   
+💻   I love exploring new tech stacks and building cool stuff.   
 
 
 ## Languages and Tools 🖥️:   
