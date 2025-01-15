@@ -20,7 +20,7 @@ I love exploring new tech stacks 💻 and leveraging them to build cool stuff �
 - 🤝 &nbsp; Fun fact: I'm trilingual 🏌️ Fluent in Somali, Turkish and improving my English
 - 🌱 &nbsp; I’m learning Cloud computing in my free time and practice data structure and algorithms; 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohamedabdillahi3/) or [Mail](mailto:madadmca04@gmail.com)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/16l1NxyaHnNCraW7Mu7dkUn-f7XHVtIWd/view?usp=sharing)
+
 
 <br>
 
